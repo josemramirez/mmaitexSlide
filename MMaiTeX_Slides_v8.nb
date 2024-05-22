@@ -1589,7 +1589,7 @@ Cell[BoxData[{
  CellTags->"mmaitexRunCollapse",
  CellLabel->"In[65]:=",ExpressionUUID->"b5638937-51af-419e-9081-84125635dcc7"]
 }, Closed]]
-}, Open  ]]
+}, Closed]]
 },
 WindowToolbars->{},
 WindowSize->{1077, 756},
@@ -1736,6 +1736,15 @@ CellTagsIndex->{
  "ajustes"->{
   Cell[1988, 76, 220, 3, 84, "Section",ExpressionUUID->"3b8aa035-9779-480b-a873-3de1f9d7613f",
    CellTags->"ajustes"]},
+ "mmaitexRun1"->{
+  Cell[2211, 81, 18673, 454, 2202, "Input",ExpressionUUID->"60e210a7-640b-4c33-b789-05c5c6e372f7",
+   CellTags->"mmaitexRun1"]},
+ "mmaitexRun2"->{
+  Cell[21362, 549, 4278, 97, 630, "Input",ExpressionUUID->"106168c6-9395-4462-a5e2-7a08d0e226bf",
+   CellTags->"mmaitexRun2"]},
+ "mmaitexRunFull"->{
+  Cell[25889, 657, 847, 23, 110, "Input",ExpressionUUID->"cb1a03af-7f08-4fb6-b027-7bde84c02dcf",
+   CellTags->"mmaitexRunFull"]},
  "mmaitexRunArrangeArray1"->{
   Cell[30993, 792, 3006, 70, 344, "Input",ExpressionUUID->"9a267aee-93ef-4a75-a350-5e805acc0839",
    CellTags->"mmaitexRunArrangeArray1"]},
@@ -1745,38 +1754,29 @@ CellTagsIndex->{
  "mmaitexRunArrangeArray3"->{
   Cell[37421, 938, 16505, 322, 1202, "Input",ExpressionUUID->"5e8894e4-fd34-4f45-9a76-5cc03d7763e8",
    CellTags->"mmaitexRunArrangeArray3"]},
- "mmaitexRunCollapse"->{
-  Cell[68163, 1579, 475, 10, 84, "Input",ExpressionUUID->"b5638937-51af-419e-9081-84125635dcc7",
-   CellTags->"mmaitexRunCollapse"]},
- "mmaitexRunFull"->{
-  Cell[25889, 657, 847, 23, 110, "Input",ExpressionUUID->"cb1a03af-7f08-4fb6-b027-7bde84c02dcf",
-   CellTags->"mmaitexRunFull"]},
- "mmaitexRunSave"->{
-  Cell[63137, 1445, 335, 7, 57, "Input",ExpressionUUID->"45dc19eb-3875-445f-9c7b-cdacd4c2b27e",
-   CellTags->"mmaitexRunSave"]},
  "mmaitexRunVer"->{
   Cell[54194, 1271, 8190, 153, 422, "Input",ExpressionUUID->"65fef5f7-1b57-4731-a42f-83b761ab5971",
    CellTags->"mmaitexRunVer"]},
- "mmaitexRun1"->{
-  Cell[2211, 81, 18673, 454, 2228, "Input",ExpressionUUID->"60e210a7-640b-4c33-b789-05c5c6e372f7",
-   CellTags->"mmaitexRun1"]},
- "mmaitexRun2"->{
-  Cell[21362, 549, 4278, 97, 630, "Input",ExpressionUUID->"106168c6-9395-4462-a5e2-7a08d0e226bf",
-   CellTags->"mmaitexRun2"]}
+ "mmaitexRunSave"->{
+  Cell[63137, 1445, 335, 7, 57, "Input",ExpressionUUID->"45dc19eb-3875-445f-9c7b-cdacd4c2b27e",
+   CellTags->"mmaitexRunSave"]},
+ "mmaitexRunCollapse"->{
+  Cell[68163, 1579, 475, 10, 84, "Input",ExpressionUUID->"b5638937-51af-419e-9081-84125635dcc7",
+   CellTags->"mmaitexRunCollapse"]}
  }
 *)
 (*CellTagsIndex
 CellTagsIndex->{
  {"ajustes", 76032, 1735},
- {"mmaitexRunArrangeArray1", 76183, 1738},
- {"mmaitexRunArrangeArray2", 76353, 1741},
- {"mmaitexRunArrangeArray3", 76523, 1744},
- {"mmaitexRunCollapse", 76691, 1747},
- {"mmaitexRunFull", 76846, 1750},
- {"mmaitexRunSave", 76997, 1753},
- {"mmaitexRunVer", 77146, 1756},
- {"mmaitexRun1", 77296, 1759},
- {"mmaitexRun2", 77443, 1762}
+ {"mmaitexRun1", 76171, 1738},
+ {"mmaitexRun2", 76318, 1741},
+ {"mmaitexRunFull", 76467, 1744},
+ {"mmaitexRunArrangeArray1", 76627, 1747},
+ {"mmaitexRunArrangeArray2", 76797, 1750},
+ {"mmaitexRunArrangeArray3", 76967, 1753},
+ {"mmaitexRunVer", 77130, 1756},
+ {"mmaitexRunSave", 77283, 1759},
+ {"mmaitexRunCollapse", 77437, 1762}
  }
 *)
 (*NotebookFileOutline
@@ -1786,7 +1786,7 @@ Cell[580, 22, 1383, 50, 123, "Title",ExpressionUUID->"9a3d9903-8cf4-4d1f-a92f-1e
 Cell[CellGroupData[{
 Cell[1988, 76, 220, 3, 84, "Section",ExpressionUUID->"3b8aa035-9779-480b-a873-3de1f9d7613f",
  CellTags->"ajustes"],
-Cell[2211, 81, 18673, 454, 2228, "Input",ExpressionUUID->"60e210a7-640b-4c33-b789-05c5c6e372f7",
+Cell[2211, 81, 18673, 454, 2202, "Input",ExpressionUUID->"60e210a7-640b-4c33-b789-05c5c6e372f7",
  CellTags->"mmaitexRun1"]
 }, Closed]],
 Cell[CellGroupData[{
@@ -1828,7 +1828,7 @@ Cell[65217, 1492, 2943, 85, 422, "Input",ExpressionUUID->"63145875-9140-4082-be1
 Cell[68163, 1579, 475, 10, 84, "Input",ExpressionUUID->"b5638937-51af-419e-9081-84125635dcc7",
  CellTags->"mmaitexRunCollapse"]
 }, Closed]]
-}, Open  ]]
+}, Closed]]
 }
 ]
 *)
