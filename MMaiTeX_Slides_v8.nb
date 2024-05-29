@@ -113,7 +113,7 @@ Cell[BoxData[{
    RowBox[{"UsersTest", "=", 
     RowBox[{"Import", "[", 
      RowBox[{
-     "\"\</Users/josem/Dropbox/Yachay2024/mmatexDB/mmatexSuite_xftp-\
+     "\"\</...tp-\
 tptomtmmtk2.csv\>\"", ",", " ", "\"\<CSV\>\""}], "]"}]}], ";"}], 
   "\[IndentingNewLine]", 
   StyleBox[
@@ -144,7 +144,7 @@ tptomtmmtk2.csv\>\"", ",", " ", "\"\<CSV\>\""}], "]"}]}], ";"}],
   RowBox[{"keyAPI1", "=", 
    RowBox[{"Import", "[", 
     RowBox[{
-    "\"\</Users/josem/Dropbox/Yachay2024/paper_Latex_MMA/keyNBs/keyCloud_en_\
+    "\"\</..._\
 uso_May1824.txt\>\"", ",", "\"\<Text\>\""}], "]"}]}], 
   ";"}], "\[IndentingNewLine]", 
  RowBox[{
@@ -164,7 +164,7 @@ uso_May1824.txt\>\"", ",", "\"\<Text\>\""}], "]"}]}],
   RowBox[{"keyAPI2", "=", 
    RowBox[{"Import", "[", 
     RowBox[{
-    "\"\</Users/josem/Dropbox/Yachay2024/paper_Latex_MMA/keyNBs/keyCloudPOST_\
+    "\"\</...\
 en_uso_May1824.txt\>\"", ",", "\"\<Text\>\""}], "]"}]}], 
   ";"}], "\[IndentingNewLine]", 
  RowBox[{
