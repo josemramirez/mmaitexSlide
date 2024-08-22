@@ -788,15 +788,16 @@ nbmmaitexslides = EvaluationNotebook[];
 $WorkDir = NotebookDirectory[];
 
 (*Al final cambiar por la direccion fija del objeto*)
+(*Al final cambiar por la direccion fija del objeto*)
 keyAPI1 = 
-  \"https://www.wolframcloud.com/obj/a2e6b45a-a8f1-448f-a293-\\
-3b71c900cc05\";
+  \"https://www.wolframcloud.com/obj/50fa8fdd-efe6-441e-a908-\\
+  f982074c048d\";
 apiMMaTeX1 = CloudObject[keyAPI1];
 
 (*Al final cambiar por la direccion fija del objeto*)
 keyAPI2 = 
-  \"https://www.wolframcloud.com/obj/47c41158-54f5-4c74-8941-\\
-18953403abe0\";
+  \"https://www.wolframcloud.com/obj/4b6b1880-0f38-4f8a-b3bb-\\
+  59d78f649e25\";
 
 CloudGet[keyAPI2];
 (*\[Equal] Introduce tu Key de MMaiTeX - AI aqui !!==*)
